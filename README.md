@@ -8,4 +8,5 @@ Aqui há desde o básico, como as estruturas sequenciais, estruturas condicionai
 * construtores, sobrecarga e encapsulamento
 * enumerações
 * composições
+* herança e polimorfismo
 
