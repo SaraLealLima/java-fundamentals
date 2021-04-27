@@ -9,4 +9,5 @@ Aqui há desde o básico, como as estruturas sequenciais, estruturas condicionai
 * enumerações
 * composições
 * herança e polimorfismo
+* classes abstratas e métodos abstratos
 
